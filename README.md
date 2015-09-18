@@ -2,15 +2,6 @@
 
 http://selfrefactor.github.io/From-quizlet-to-memrise/
 
-##Argumentation
-Using flashcard services as Cram and Quizlet is not very helpful as Memrise is much better.
-
-The issue with Memrise is that the smartest option is to create your own course.
-
-The easiest way to create a course is through the bulk add option.
-
-The bulk add option requires four columns, while exporting from Cram or Quizlet you receive only two.
-
 ##What the script does?
 - Fills with empty spaces the extra columns Memrise expects.
 - Allows the user to select which words to export
